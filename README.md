@@ -19,15 +19,10 @@ Le projet suit un pipeline simplifié :
     * **FPS :** Est-ce que le modèle est assez rapide pour être utilisé sur une voiture en mouvement ?
 
  ## 👥 Équipe
-
-    Guillaume Gauthier
-
-    Van-Truong David Vo
-
-    Jonathan Kim
+Guillaume Gauthier
+Van-Truong David Vo
+Jonathan Kim
 
 📚 Références
-
-    SegFormer: Simple and Efficient Design for Semantic Segmentation with Transformers (Xie et al., 2021)
-
-    U-Net: Convolutional Networks for Biomedical Image Segmentation (Ronneberger et al., 2015)
+SegFormer: Simple and Efficient Design for Semantic Segmentation with Transformers (Xie et al., 2021)
+U-Net: Convolutional Networks for Biomedical Image Segmentation (Ronneberger et al., 2015)
