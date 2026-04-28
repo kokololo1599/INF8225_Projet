@@ -29,4 +29,5 @@ Jonathan Kim
 ## 📚 Références
 
 SegFormer: Simple and Efficient Design for Semantic Segmentation with Transformers (Xie et al., 2021)
+
 U-Net: Convolutional Networks for Biomedical Image Segmentation (Ronneberger et al., 2015)
